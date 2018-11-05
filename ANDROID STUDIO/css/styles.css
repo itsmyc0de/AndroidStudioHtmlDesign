@@ -1,0 +1,75 @@
+
+*{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}body{
+    margin: 0px auto;}.work_area{width: 781px;height: 518px;background-color: #d9e7f5;position: absolute;top:0;bottom: 0;
+    left: 0;right: 0;margin: auto;border-radius: 10px;padding-left: 6px;padding-right: 6px;padding-bottom: 6px;}.header{
+    width: 28px;width: 100%;border-top-left-radius: 10px;border-top-right-radius: 10px;}.header_wraper{margin-left: 6px;
+    margin-top: 9px;width: 80%;float: left;font-size: 13px;}.controls{width: 28px;height: 20px;float: right;border: solid 1px black;
+    margin: 0.5px;text-align: center;}.controls:hover{background-color: #9db1c6;cursor: default;}.controls1{width: 48px;
+    height: 20px;float: right;background-color: #be3928;border: solid 1px black; margin: 0.5px; text-align: center;
+}.clear{clear: both;}.controls1:hover{background-color: #d29590;cursor: default;}.logo{padding-top:0.5px;float: left;
+}.logo_text{float: left;}.main_area{width: 100%;height: 481px;clear: both;border: solid 1px black;}.left_side{
+    width:40%;height:100%; float: left; background-color: #ffffff;}.right_side{width:60%;height:100%;background-color:#f7f7f7;float: left;}.list{
+    padding-left: 30px;padding-top: 10px;padding-bottom: 5px;
+}.list_header{font-size: 12px;color: black;}.list_sub{font-size: 12px;color: gray;}.list:hover{background-color: #3875d6;cursor: pointer;}.list:hover .list_header{color: white;}.list:hover .list_sub{color: white;
+}
+.android_logo{
+    padding-top:6%;
+    padding-left: 195px;
+}
+.android_name{
+    padding-top:20px;
+    text-align: center;
+    font-size: 21pt;
+    text-decoration: none;
+}
+.version{
+    padding-top:12px;
+    text-align: center;
+    font-size: 11pt;
+    color: gray;
+}
+.cat{
+    padding-left: 140px;
+    padding-top:32px;
+}
+.cat_txt{
+    font-size: 8pt;
+    padding-top: 2px;
+}
+.cat_txt:hover{
+   color: #3875d6;
+   cursor: pointer;
+}
+.cat_logo{
+    float: left;
+    padding-right: 5px;
+}
+.sec{
+    padding-top: 11.6px;
+}
+
+.footer_right{
+    width: 100%;
+    padding-top: 7%;
+}
+.footer_menu{
+    float: right;
+    padding-right: 15px;
+}
+.menu{
+    padding-left: 10px;
+    float: left;
+}
+.menu .image{
+    float: left;
+}
+.menu .text{
+    font-size: 8pt;
+    float: left;
+    padding-top:2px;
+}
+
+.menu:hover .text{
+    color: #3875d6;
+    cursor: pointer;
+}
