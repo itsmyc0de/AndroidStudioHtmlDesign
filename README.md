@@ -1,4 +1,3 @@
 # Android Studio Html Design
 Android studio start page HTML Design
-![Screenshot](AndroidStudioHtmlDesign/ANDROID STUDIO/uuuu.PNG)
-<img src="AndroidStudioHtmlDesign/ANDROID STUDIO/uuuu.PNG">
+<img src="https://github.com/itsmyc0de/AndroidStudioHtmlDesign/blob/master/ANDROID%20STUDIO/uuuu.PNG">
